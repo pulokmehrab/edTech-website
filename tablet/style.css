@@ -1,4 +1,11 @@
 .text{
     color: black;
-    
+
+}
+.halfwidth{
+    width: 50%;
+    background-color: rgb(248, 241, 231);
+}
+.halfwidth img{
+    width: 90%;
 }
