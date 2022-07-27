@@ -2,10 +2,14 @@
     color: black;
 
 }
-.halfwidth{
-    width: 50%;
-    background-color: rgb(248, 241, 231);
-}
-.halfwidth img{
-    width: 90%;
+
+
+
+.join-area{
+    width: 100%;
+    padding: 50px;
+    padding-top: 100px;
+    background-color: rgb(190, 216, 216);
+    justify-content: center;
+    align-items: center;
 }
