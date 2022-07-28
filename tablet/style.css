@@ -1,3 +1,12 @@
+body{
+    background-color: rgb(253, 253, 245);
+}
+hr{
+
+    border: 1px solid black;
+}
+
+
 .text{
     color: black;
 
@@ -12,4 +21,7 @@
     background-color: rgb(190, 216, 216);
     justify-content: center;
     align-items: center;
+}
+.img-width{
+    width: 100%;
 }
